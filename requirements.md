@@ -1,4 +1,4 @@
-# SchemeMatch-AI Requirements Document
+# Janiva Requirements Document
 
 ## 1. Problem Statement
 
