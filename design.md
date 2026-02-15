@@ -1,4 +1,4 @@
-# SchemeMatch-AI: Revolutionizing Government Service Delivery Through Voice AI
+# Janiva: Revolutionizing Government Service Delivery Through Voice AI
 
 > **Hackathon Innovation**: The first voice-first AI platform democratizing access to India's 1000+ welfare schemes for 35+ crore feature phone users
 
